@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database and backup data
+students.db
+students.json
+
+# Generated reports
+*.pdf
+*.csv
+*.xlsx
+
+# Local backup
+student_performance_backup.py
+
+# Virtual environment
+venv/
+.venv/
