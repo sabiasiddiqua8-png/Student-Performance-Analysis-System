@@ -8,6 +8,10 @@ The Student Performance Analysis System is a menu-driven Python application that
 
 It helps administrators manage student records and generate useful academic performance reports.
 
+## Project Screenshot
+
+![Student Performance Analysis System](project_screenshot.png)
+
 ## Features
 
 - Admin Login System
